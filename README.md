@@ -1,12 +1,12 @@
 # AI-Based Candidate Ranking System using Semantic Similarity
 
-## 📌 Overview
+##  Overview
 This project implements an AI-driven system for **automatic CV screening and candidate ranking**.  
 It uses **semantic similarity (Sentence Transformers)** to match candidates with job descriptions and provides **explainable results** showing why candidates are ranked highly.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Automate candidate evaluation from CVs
 - Improve matching using **semantic understanding instead of keyword matching**
 - Provide **transparent and explainable rankings**
@@ -14,13 +14,13 @@ It uses **semantic similarity (Sentence Transformers)** to match candidates with
 
 ---
 
-## 🧠 Roles Covered
+##  Roles Covered
 - AI Engineer (Multimodal & LLM Systems)
 - Full Stack Engineer (AI-Driven Platforms)
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 
 ### 1. Data Processing
 - Extract text from CVs (PDF / DOCX)
